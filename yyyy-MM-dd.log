@@ -1,0 +1,11 @@
+2020/10/23 10:50:12 init.go:24: mysql startup normal !
+2020/10/23 10:52:38 init.go:24: mysql startup normal !
+2020/10/23 10:53:54 init.go:24: mysql startup normal !
+2020/10/23 10:54:19 init.go:24: mysql startup normal !
+2020/10/23 10:54:58 init.go:24: mysql startup normal !
+2020/10/23 10:57:23 init.go:24: mysql startup normal !
+2020/10/23 10:57:34 main.go:31: Start to listening the incoming requests on http address: 127.0.0.1:8081
+2020/10/23 11:01:44 init.go:24: mysql startup normal !
+2020/10/23 11:01:50 main.go:31: Start to listening the incoming requests on http address: 127.0.0.1:8081
+2020/10/23 11:08:25 init.go:24: mysql startup normal !
+2020/10/23 11:08:25 main.go:31: Start to listening the incoming requests on http address: 127.0.0.1:8081
